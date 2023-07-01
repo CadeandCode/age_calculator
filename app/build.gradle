@@ -4,15 +4,15 @@ plugins {
 }
 
 android {
-    namespace 'com.example.dobcalc'
+    namespace 'com.CadeandCode.dobcalc'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.dobcalc"
+        applicationId "com.CadeandCode.dobcalc"
         minSdk 21
         targetSdk 33
-        versionCode 1
-        versionName "1.0"
+        versionCode 4
+        versionName "3.1"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
